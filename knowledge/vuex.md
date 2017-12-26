@@ -18,8 +18,6 @@ npm install vuex --save
 
 【一、获取store中的数据】
 
-复制代码
-
 >import Vue from 'vue'
 >import Vuex from 'vuex'
 
@@ -41,7 +39,6 @@ const store = new Vuex.Store({
 
 >export default store
 
-复制代码
 在vue根文件中注册store，这样所有的组件都可以使用store中的数据了
 
 我的项目文件结构：
@@ -54,7 +51,6 @@ const store = new Vuex.Store({
 
 在main.js文件中注册store
 
-复制代码
 ```
 import Vue from 'vue'
 import App from './App'
@@ -70,12 +66,12 @@ new Vue({
   components: { App }
 })
 ```
-复制代码
+
 这样简单的第一步就完成了，你可以再任意组件中使用store中的数据，使用方法也很简单，就是使用计算属性返回store中的数据到一个新属性上，然后在你模板中则可以使用这个属性值了：
 
 任意组件中：
 
-复制代码
+
 ```
 export default {
   ...
@@ -87,7 +83,7 @@ export default {
   ...
 }
 ```
-复制代码
+
 在模板中可以直接使用bankName这个属性了，也就是store中的中国银行
 
  
@@ -105,7 +101,7 @@ export default {
 ```
 然后组件中提交mutation
 
-复制代码
+
 ```
 export default {
   ...
@@ -122,10 +118,10 @@ export default {
  ...   
 }
 ```
-复制代码
+
 在store中的index.js中添加mutations：
 
-复制代码
+
 ```
 const store = new Vuex.Store({
   state: {
@@ -140,7 +136,7 @@ const store = new Vuex.Store({
   }
 })
 ```
-复制代码
+
 这样你发现，在点击提交按钮的时候，页面已经显示你修改的数据了，并且所有复用这个组件的地方的数据全都被vue更新了；
 
  
