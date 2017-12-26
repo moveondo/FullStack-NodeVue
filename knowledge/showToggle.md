@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>  
 <html>  
 <head>  
@@ -31,3 +32,26 @@
     </script>  
 </body>  
 </html>  
+```
+ 点击切换class
+ 
+```
+<template>
+    <span class="static" v-bind:class="{ 'class-a' : isA, 'class-b': !isA}" @click="toggle">
+<template>
+<script>
+    export default {
+        data: function(){
+            return {
+                isA: false
+            };
+        },
+        
+        methods: {
+            toggle: function(){
+                this.isA = !this.isA;
+            }
+        }
+    };
+<script>
+```
