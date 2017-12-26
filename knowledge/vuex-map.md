@@ -62,7 +62,8 @@ export default store;
       }  
     },  
     computed: mapState({ // mapState相当于映射  
-        count: 'numb',  //这个时候count应该等于多少？！！ 是等于store文件里面的count呢还是等于numb？答案是等于numb！这边的意思是mapState把'numb'的值映射给了count，所以count等于10086  
+        count: 'numb',  //这个时候count应该等于多少？！！
+        //是等于store文件里面的count呢还是等于numb？答案是等于numb！这边的意思是mapState把'numb'的值映射给了count，所以count等于10086  
     })  
   }  
 </script>
