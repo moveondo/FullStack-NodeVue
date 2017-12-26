@@ -47,7 +47,7 @@ const store = new Vuex.Store({
 我的项目文件结构：
 
 
-
+![](https://github.com/moveondo/FullStack-NodeVue/blob/master/knowledge/image/vuex.png)
 
 
  
