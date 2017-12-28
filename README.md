@@ -110,5 +110,5 @@
 
 整个项目包括后台数据添加和前台数据展示两大部分,通过这个项目，梳理了一遍Vue的开发流程，并复习了相关使用方法，懂得了如何使用其他编程语言替换Node作为接口，还有就是之前写的一些例如iframefileupload.js前端页面无刷新文件上传插件、validatefileupload.js文件格式校验插件等都用上了。接下来就是不断的调整小细节，继续提升项目代码的性能和运行效率。
 
- [参考原文]（https://github.com/zymseo/VueNode）并做了部分优化！
+ [参考原文](https://github.com/zymseo/VueNode) 并做了部分优化！
 
