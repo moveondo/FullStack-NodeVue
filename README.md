@@ -96,7 +96,8 @@
 ├── .editorconfig		// 编辑器的一些配置
 ├── .eslintignore		// 忽略语法检查的目录文件，一般是忽略build和config目录
 ├── .eslintrc.js		// eslint的配置文件
-├── // 关于项目目录各文件作用更加详细的介绍，请参考：https://github.com/moveondo/FullStack-NodeVue/blob/master/knowledge/vue-cli%E8%84%9A%E6%89%8B%E6%9E%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90.md
+├── // 关于项目目录各文件作用更加详细的介绍，请参考：
+https://github.com/moveondo/FullStack-NodeVue/blob/master/knowledge/vue-cli%E8%84%9A%E6%89%8B%E6%9E%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90.md
 </pre>
 
 
