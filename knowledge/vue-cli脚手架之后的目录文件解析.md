@@ -33,7 +33,11 @@ trim_trailing_whitespace = true // 自动移除行尾多余空格
 
 6、【.eslintignore】忽略语法检查的目录文件，一般是忽略build和config目录。
 
-7、【.eslintrc.js】是eslint的配置文件，extands表示继承一个标准的规则，规则为：https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style，也可以通过rules表示对部分规则的改写，比如我们的代码不符合eslint格式规范，就会报错，但是自己的代码也没有明显的格式错误，就可以不用按照它规定的格式来写，这时候就可以在rules中来修改配置项。no-debugger默认是要判断：如果是开发环境，则允许出现debugger，如果是线上环境，则不出现debugger。
+7、【.eslintrc.js】是eslint的配置文件，extands表示继承一个标准的规则，规则为：
+```
+https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style，也可以通过rules表示对部分规则的改写，比如我们的代码不符合eslint格式规范，就会报错，但是自己的代码也没有明显的格式错误，就可以不用按照它规定的格式来写，这时候就可以在rules中来修改配置项。
+no-debugger默认是要判断：如果是开发环境，则允许出现debugger，如果是线上环境，则不出现debugger。
+```
 
 8、【.gitignore】表示本文件配置项中的目录不会提交到git仓库。。
 
