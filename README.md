@@ -34,6 +34,20 @@
 
 开发环境 WIN7、Chrome 61.0、nodejs 8.9.0、Mysql5.7.14
 
+#### 注：此项目纯属个人爱好，代码测试及学习使用，不用做任何商业活动。
+
+
+>  vue-cli 入门建议参考 [基于VUE2.5仿天猫移动端首页的SPA](https://github.com/moveondo/VUE-Taobao)
+
+>  node爬虫建议参考 [node+ejs爬上海链家房屋价格(张江地区租房)信息,promise,eventproxy,express,koa框架使用](https://github.com/moveondo/nodeJs-Reptile)  
+
+> node框架express，koa 建议参考[nodejs框架-Express,Koa](https://github.com/moveondo/NodeJsFrame)
+
+
+> vue + element-ui 的后台管理系统 建议参考 [ vue + element-ui 的后台管理系统](https://github.com/moveondo/vue-ManageSystem)
+
+> 如果你想学习socket 建议参考 [vue全家桶+node.js+socket打造的智能聊天及新闻社区](https://github.com/moveondo/CloudNews)
+
 
 
 ### 目标功能
@@ -101,6 +115,6 @@ vue-cli%E8%84%9A%E6%89%8B%E6%9E%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E7%9B%AE%E5%BD%95%
 
 整个项目包括后台数据添加和前台数据展示两大部分,通过这个项目，梳理了一遍Vue的开发流程，并复习了相关使用方法，懂得了如何使用其他编程语言替换Node作为接口，还有就是之前写的一些例如iframefileupload.js前端页面无刷新文件上传插件、validatefileupload.js文件格式校验插件等都用上了。接下来就是不断的调整小细节，继续提升项目代码的性能和运行效率。
 
- [参考原文](https://github.com/zymseo/VueNode) 并做了部分优化！
+
 
  
