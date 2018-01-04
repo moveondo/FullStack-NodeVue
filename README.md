@@ -34,6 +34,17 @@
 
 开发环境 WIN7、Chrome 61.0、nodejs 8.9.0、Mysql5.7.14
 
+#### 注：此项目纯属个人爱好，代码测试及学习使用，不用做任何商业活动。
+
+>  如果你vue-cli不够熟悉建议参考 [基于VUE2.5仿天猫移动端首页的SPA](https://github.com/moveondo/VUE-Taobao)
+
+>  如果你node使用不够熟悉建议参考 [node+ejs爬上海链家房屋价格(张江地区租房)信息,promise,eventproxy,express,koa框架使用](https://github.com/moveondo/nodeJs-Reptile)  
+
+> 如果你node框架express，koa不够熟悉建议参考[nodejs框架-Express,Koa](https://github.com/moveondo/NodeJsFrame)
+
+
+> 如果你想学习socket 建议参考 [vue全家桶+node.js+socket打造的智能聊天及新闻社区](https://github.com/moveondo/CloudNews)
+
 
 
 ### 目标功能
