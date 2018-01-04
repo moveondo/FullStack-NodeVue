@@ -109,7 +109,7 @@ vue-cli%E8%84%9A%E6%89%8B%E6%9E%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E7%9B%AE%E5%BD%95%
 
 ### 项目GIF图
 
-![gif](https://github.com/zymseo/VueNode/blob/master/project.gif)
+![gif](https://github.com/moveondo/FullStack-NodeVue/blob/master/static/images/project.gif)
 
 ### 写在最后
 
