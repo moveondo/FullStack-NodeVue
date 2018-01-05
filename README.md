@@ -9,6 +9,30 @@
 
 后端：Node、Mysql
 
+Vue2：采用最新Vue2的语法:grin:
+
+Vuex：实现不同组件之间的状态共享:v:
+
+vue-router：单页应用路由管理必备:sunglasses:
+
+axios：发起http请求:wink:
+
+SASS(SCSS)：css预处理语言:muscle:
+
+Express(上线版本是Koa2)：因为vue-cli是用的Express做服务器，所以开源的开发版本是Express，自己生产环境用的是Koa2。 :stuck_out_tongue_winking_eye:
+
+Webpack：自动化构建工具，大部分配置vue-cli脚手架已经弄好了，很方便。:smirk:
+
+ES6：采用ES6语法，这是趋势。:clap:
+
+localStorage(HTML5)：本地存储，保存用户个性化设置。:blush:
+
+CSS3：CSS3动画及样式。:+1:
+
+Mysql:本地存储数据。:smirk:
+
+
+
 ### 项目运行方法
 
 #### 注：前端使用ES6的很多新特性，所以NodeJs 必须是6.0稳定版本，我使用的版本是8.9.0
